@@ -34,5 +34,6 @@
     "import/resolver": {
       "typescript": {}
     }
-  }
+  },
+  "semi": ["error", "never"]
 }
